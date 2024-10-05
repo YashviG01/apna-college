@@ -1,2 +1,2 @@
-# apna-college
+# apna-repo
 mera man
